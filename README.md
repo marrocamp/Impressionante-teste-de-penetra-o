@@ -1,4 +1,4 @@
-### **Awesome Penetration Testing** [![Links Check](https://travis-ci.org/enaqx/awesome-pentest.svg?branch=master)](https://travis-ci.org/enaqx/awesome-pentest)
+### **Awesome Penetration Testing**
 
 
 A collection of awesome penetration testing resources
@@ -399,3 +399,4 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+ [![Links Check](https://travis-ci.org/enaqx/awesome-pentest.svg?branch=master)](https://travis-ci.org/enaqx/awesome-pentest)
